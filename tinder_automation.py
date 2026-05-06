@@ -5,7 +5,6 @@ A simple Selenium bot for automating Tinder login using Email/Phone.
 Author: Your Name
 Date: 2026
 """
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -13,7 +12,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
 import time
-
 
 # ========================= CONFIG =========================
 MY_EMAIL = "artistar@gmail.com"
@@ -85,7 +83,8 @@ except (NoSuchElementException, TimeoutException) as e:
     print(f"❌ Element not found or timeout: {e}")
 except Exception as e:
     print(f"❌ Unexpected error: {e}")
-
 finally:
     input("\nPress Enter to close the browser...")
     driver.quit()
+
+#------------------------------------------------------------- new version____is coming soon________#

@@ -1,0 +1,7 @@
+# Main dependencies
+selenium>=4.0.0
+webdriver-manager
+
+# Optional (for better experience)
+pandas          # if you want to save data later
+requests

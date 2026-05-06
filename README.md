@@ -38,6 +38,8 @@ Misuse may lead to account ban. Use responsibly.
 ---
 
 ## How to Run (Current Version)
+(new version is coming soon)
+(just in 2 day)
 
 ```bash
 # Install Selenium
@@ -45,3 +47,4 @@ pip install selenium
 
 # Run the bot
 python main.py
+#-----------------------------------------

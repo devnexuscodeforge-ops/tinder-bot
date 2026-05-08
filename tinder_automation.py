@@ -87,4 +87,4 @@ finally:
     input("\nPress Enter to close the browser...")
     driver.quit()
 
-#------------------------------------------------------------- new version____is coming soon________#
+#------------------------------------------------------------- new version____is coming soon________in one week#

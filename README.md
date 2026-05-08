@@ -24,7 +24,7 @@ Misuse may lead to account ban. Use responsibly.
 
 ## 🚀 Future Plans (v2.0 - Coming Soon)
 
-**New Version dropping in 2 days!**
+**New Version dropping in one week!**
 
 - 🔄 Google Login Support
 - ❤️ Auto Like / Swipe System
